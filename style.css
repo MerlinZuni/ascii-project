@@ -1,0 +1,23 @@
+/* html, body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(255, 255, 255);
+  font-family: 'Share Tech Mono', monospace;
+  color: rgb(0, 0, 0);
+  font-size: 16pt;
+  line-height: 13pt;
+} */
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: #202124;
+  font-family: 'Share Tech Mono', monospace;
+  color: #22b455;
+  font-size: 16pt;
+  line-height: 13pt;
+}
+
+canvas {
+  display: block;
+}
