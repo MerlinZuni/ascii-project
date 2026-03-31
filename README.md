@@ -11,7 +11,7 @@ Built using **p5.js**, **JavaScript**, and **HTML**, this project explores the i
 
 ## Live Demo
 
-👉 https://username.github.io/ascii-project
+👉 https://merlinzuni.github.io/ascii-project
 
 > ⚠️ **Important:** You must allow **webcam access** in your browser to experience the live visualization.
 
@@ -51,4 +51,4 @@ It serves as an experiment in blending:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/ascii-project.git
+   git clone https://github.com/merlinzuni/ascii-project.git
